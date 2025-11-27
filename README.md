@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZYZY2727
-- 👀 I’m interested in PHYSICS and MACHINE LEARNING
-- 🌱 
+- 👀 I’m interested in PHYSICS
+- 🌱 Exploring QISKIT!!
 - ⚡ Fun fact: ...
 
 <!---
