@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZYZY2727
-- 👀 I’m interested in PHYSICS
-- 🌱 Exploring QISKIT!!
+- 👋 Hi, I’m Zuyuan
+- 👀 
+- 🌱
 - ⚡ Fun fact: ...
 
 <!---
